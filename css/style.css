@@ -20,6 +20,16 @@ a {
     color: black;
 }
 
+button {
+    background-color: #3882F6;
+    color: #E5E7EB;
+    font-weight: bold;
+    border: none;
+    border-radius: 10px;
+    padding: 10px 0px;
+    max-width: 200px;
+}
+
 
 /*classes */
 .logo-title {
@@ -34,7 +44,7 @@ a {
     gap: 16px;
 }
 
-.header-list li a{
+.header-list li a, .fd-description{
     font-size: 18px;
     color: #E5E7EB;
 }
@@ -59,7 +69,9 @@ a {
 }
 
 .fd-title {
-    
+    font-size: 48px;
+    font-weight: 800;
+    color: #f9faf8;
 }
 
 /* Individual image classes for resizing */
