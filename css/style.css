@@ -59,18 +59,21 @@ button {
     display: flex;
     justify-content: center;
     align-items: center;
+    gap: 50px;
+    padding: 100px 0px;
 }
 
 .fd-title-desc {
     display: flex;
     flex-direction: column;
     flex-grow: 0;
-    max-width: 300px;
+    max-width: 400px;
 }
 
 .fd-title {
     font-size: 48px;
     font-weight: 800;
+    margin-bottom: 0px;
     color: #f9faf8;
 }
 
@@ -81,8 +84,9 @@ button {
 }
 
 .cover-image {
-    height: 300px;
+    height: 400px;
     width: auto;
+    border-radius: 10px;
 }
 
 .game-list-image {
