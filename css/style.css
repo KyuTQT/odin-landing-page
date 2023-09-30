@@ -44,6 +44,24 @@ a {
     color: #f9faf8;
 }
 
+.first-div-container {
+    background-color: #1F2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.fd-title-desc {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 0;
+    max-width: 300px;
+}
+
+.fd-title {
+    
+}
+
 /* Individual image classes for resizing */
 .notebook {
     height: 50px;
