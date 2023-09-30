@@ -7,7 +7,8 @@ body {
 
 header {
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-around;
+    background-color: #1F2937;
 }
 
 ul {
@@ -30,6 +31,17 @@ a {
 .header-list {
     display: flex;
     align-items: center;
+    gap: 16px;
+}
+
+.header-list li a{
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.header-title {
+    font-size: 24px;
+    color: #f9faf8;
 }
 
 /* Individual image classes for resizing */
