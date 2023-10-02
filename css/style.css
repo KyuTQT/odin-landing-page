@@ -119,6 +119,7 @@ button {
 .third-div-container h4 {
     text-align: right;
     align-self: flex-end;
+    margin-top: 0px;
 
 }
 
@@ -127,6 +128,7 @@ button {
     font-weight: lighter;
     color: #1F2937;
     font-style: italic;
+    margin-bottom: 0px;
 }
 
 /* Individual image classes for resizing */
