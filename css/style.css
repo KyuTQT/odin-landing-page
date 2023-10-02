@@ -105,6 +105,28 @@ button {
     font-size: 20px;
 }
 
+.third-div-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #E5E7EB;
+    padding: 100px 250px;
+}
+
+.third-div-container h4 {
+    text-align: right;
+    align-self: flex-end;
+
+}
+
+.third-div-container p {
+    font-size: 36px;
+    font-weight: lighter;
+    color: #1F2937;
+    font-style: italic;
+}
+
 /* Individual image classes for resizing */
 .notebook {
     height: 45px;
