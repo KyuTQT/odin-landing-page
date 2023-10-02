@@ -77,6 +77,22 @@ button {
     color: #f9faf8;
 }
 
+.second-div-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.game-list-container {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    text-align: center;
+    width: auto;
+    flex-wrap: wrap;
+}
+
 /* Individual image classes for resizing */
 .notebook {
     height: 45px;
@@ -92,4 +108,6 @@ button {
 .game-list-image {
     height: 200px;
     width: auto;
+    border: #3882F6 solid;
+    border-radius: 10px;
 }
