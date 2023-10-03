@@ -47,11 +47,13 @@ button {
 .header-list li a, .fd-description{
     font-size: 18px;
     color: #E5E7EB;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .header-title {
     font-size: 24px;
     color: #f9faf8;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .first-div-container {
@@ -68,6 +70,7 @@ button {
     flex-direction: column;
     flex-grow: 0;
     max-width: 400px;
+    
 }
 
 .fd-title {
@@ -101,6 +104,7 @@ button {
     font-size: 30px;
     color: #1F2937;
     margin-bottom: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .game-list-container .game-list p {
     color: #1F2937;
@@ -116,10 +120,11 @@ button {
     padding: 100px 250px;
 }
 
-.third-div-container h4 {
+.third-div-container h3 {
     text-align: right;
     align-self: flex-end;
-    margin-top: 0px;
+    margin-top: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 
 }
 
@@ -128,6 +133,7 @@ button {
     font-weight: lighter;
     color: #1F2937;
     font-style: italic;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin-bottom: 0px;
 }
 
