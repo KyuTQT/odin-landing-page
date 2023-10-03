@@ -168,11 +168,10 @@ a {
     border-radius: 10px;
     border-color:  #E5E7EB;
     background-color: #3882F6;
-
     font-size: 18px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: #E5E7EB;
-    padding: 0px 15px; 
+    padding: 5px 15px; 
 }
 
 footer {
