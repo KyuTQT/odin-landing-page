@@ -131,6 +131,20 @@ button {
     margin-bottom: 0px;
 }
 
+.fourth-div-container {
+    background-color: #3882F6;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 100px 250px;
+    border-radius: 10px;
+    flex-wrap: wrap;
+}
+
+.fourth-h3-p {
+    
+}
+
 /* Individual image classes for resizing */
 .notebook {
     height: 45px;
